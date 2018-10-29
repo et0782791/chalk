@@ -1,0 +1,24 @@
+{
+  "name": "chalk",
+  "version": "1.0.0",
+  "description": "myChalkProject",
+  "main": "app.js",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "chalk-animation": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/et0782791/chalk.git"
+  },
+  "author": "ET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/et0782791/chalk/issues"
+  },
+  "homepage": "https://github.com/et0782791/chalk#readme"
+}
